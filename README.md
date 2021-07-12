@@ -3,6 +3,6 @@
 This number is still in use in almost all of the countries that were created after the dissolution of Yugoslavia
 Number is made of a 13 digits and this application is intended to validate this number, applied to Serbian citizens.
 
-This site was built using [XCode - Swift UI](https://developer.apple.com/xcode/swiftui/).
+This application was built using [XCode - Swift UI](https://developer.apple.com/xcode/swiftui/).
 
 
